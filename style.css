@@ -9,9 +9,10 @@ h1 {
 .square {
   width: 100px;
   height: 100px;
-  background-color: #ccc;
+  background-color: #eee;
   border: 1px solid #1e1e1e;
   display: inline-block;
+  border-radius: 10px;
 }
 
 .o {
