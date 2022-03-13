@@ -44,3 +44,19 @@ h1 {
   font-size: 50px;
   line-height: 100px;
 }
+
+.reset {
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  transition: 0.7s;
+  border: none;
+}
+
+.reset:hover {
+  background-color: transparent;
+  cursor: pointer;
+  border: 1px solid magenta;
+  color: magenta;
+  letter-spacing: 2px;
+}
