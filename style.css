@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.stage {
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+  border: 1px solid #1e1e1e;
+  display: inline-block;
+}
